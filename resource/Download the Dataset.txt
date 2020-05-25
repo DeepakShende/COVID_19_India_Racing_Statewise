@@ -1,0 +1,11 @@
+
+------------------------##############---  COVID_19_India_Dashboard  ---###############-----------------------------------
+
+
+Hey, 
+    This is Deepak get the latest dataset of "COVID_19_India" form the link below.
+
+                   https://www.kaggle.com/deepakshende/covid19-india-statewise
+
+
+-----------------------##############---  COVID_19_India_Dashboard  ---###############-------------------------------------
